@@ -1,0 +1,11 @@
+composer create-project laravel/laravel 
+
+.env file change db
+composer require laravel/jetstream
+
+php.ini
+memory_limit = -1
+
+composer require laravel/ui
+php artisan ui bootstrap
+npm install && npm run dev
