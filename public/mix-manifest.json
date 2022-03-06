@@ -1,4 +1,9 @@
 {
-    "/js/app.js": "/js/app.js?id=1f2c119e601a03d2dd31a46ee8a654bc",
-    "/css/app.css": "/css/app.css?id=40764e56c306be6c567a8e412b4ad557"
+    "/js/app.js": "/js/app.js?id=03d3e061adbe0e579b70ecda5bcd3d1e",
+    "/plugins/jquery/jquery.min.js": "/plugins/jquery/jquery.min.js?id=e2e570eeabe92cb86c910b8828fd9e38",
+    "/dist/js/adminlte.min.js": "/dist/js/adminlte.min.js?id=081eabf76660af656fea349b7b60f9d5",
+    "/plugins/bootstrap/js/bootstrap.bundle.min.js": "/plugins/bootstrap/js/bootstrap.bundle.min.js?id=2c80ecebb192f9f6b98b6ef856f0cf85",
+    "/css/app.css": "/css/app.css?id=89f42a89ad2e3c754e9f65ea0d9f8194",
+    "/dist/css/adminlte.min.css": "/dist/css/adminlte.min.css?id=514407713efa81c7518a38b9de25039f",
+    "/plugins/fontawesome-free/css/all.min.css": "/plugins/fontawesome-free/css/all.min.css?id=8aa45426baf390b841b59006fdf8ddc3"
 }
